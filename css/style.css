@@ -1,0 +1,52 @@
+/*
+ * Login:xgarip00
+ *
+ * Doplnte sve reseni.
+ *
+ * Nezapomente pridat strucne hromadne komentare pro pravidla jednotlivych sekci
+ * a pro netrivialni useky kodu.
+ */
+
+ /* General properties of the web presentation */
+
+body {
+   /*height: 480px;*/
+   max-width: 1200px;
+   min-width: 720px;
+   position: relative;
+   margin: auto;
+     }
+
+#heisenberg {
+    margin: 0px;
+    position: absolute;
+    color: brown;
+
+}
+ header {
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+    position: relative;
+    max-width: 1200px;
+    min-width: 720px;
+    min-height: 400px;
+    margin: auto;
+    background: url(../img/header.jpg);
+    opacity: 0.8;
+    top: 20px;
+    background-size: cover;
+    background-position: center;
+    /*position: absolute;*/
+    /*top: 50%;
+    left: auto;
+    margin-right: -50%;
+    /*transform: translate(-50%, -50%);*/
+    /*background-size: cover;*/
+    
+    
+ }
+
+ .phone {
+
+ }
